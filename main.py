@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 22 09:16:16 2016
 
-@author: Bijal Patel
+@author: Vicky Patel
 """
 
 # coding: utf-8

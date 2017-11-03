@@ -1,4 +1,7 @@
-Text Classifier
+## Text Classifier
+
+## Introduction
+
 [Python, collections, matplotlib, itertools, numpy]
 
 •	Built a text classifier to determine whether a movie review is expressing positive or negative sentiment.
